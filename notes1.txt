@@ -1,0 +1,81 @@
+& "/Users/student/Documents/College/ComputerSystem/programming4/"main
+Player 1 rolled 3 and is moved to 3
+Player 2 rolled 5 and is moved to 5
+Player 1 rolled 6 and is moved to 9 and Player landed on a chute and slid down to 7
+Player 2 rolled 6 and is moved to 11 and Player landed on a B, move backward to 13
+Player 1 rolled 4 and is moved to 11 and Player landed on a B, move backward to 22
+Player 2 rolled 5 and is moved to 18 and Player landed on a ladder and climbed up to 21
+Player 1 rolled 6 and is moved to 28
+Player 2 rolled 1 and is moved to 22
+Player 1 rolled 6 and is moved to 34
+Player 2 rolled 3 and is moved to 25 and Player landed on a chute and slid down to 19
+Player 1 rolled 4 and is moved to 38 and Player landed on a chute and slid down to 34
+Player 2 rolled 1 and is moved to 20 and Player landed on a ladder and climbed up to 22
+Player 1 rolled 4 and is moved to 38
+Player 2 rolled 4 and is moved to 26 and Player landed on a B, move backward to 28
+Player 1 rolled 2 and is moved to 40
+Player 2 rolled 3 and is moved to 31 and Player landed on a ladder and climbed up to 32
+Player 1 rolled 4 and is moved to 44
+Player 2 rolled 6 and is moved to 38
+Player 1 rolled 2 and is moved to 46 and Player landed on a ladder and climbed up to 50
+Player 2 rolled 3 and is moved to 41
+Player 1 rolled 5 and is moved to 55 and Player landed on a chute and slid down to 52
+Player 2 rolled 1 and is moved to 42 and Player landed on a F, and moved to 50
+Player 1 rolled 3 and is moved to 55
+Player 2 rolled 4 and is moved to 54
+Player 1 rolled 1 and is moved to 56 and Player landed on a ladder and climbed up to 63
+Player 2 rolled 2 and is moved to 56
+Player 1 rolled 4 and is moved to 67
+Player 2 rolled 1 and is moved to 57
+Player 1 rolled 3 and is moved to 70
+Player 2 rolled 2 and is moved to 59 and Player landed on a chute and slid down to 49
+Player 1 rolled 4 and is moved to 74 and Player landed on a B, move backward to 79
+Player 2 rolled 5 and is moved to 54
+Player 1 rolled 6 and is moved to 85 and Player landed on a B, move backward to 87
+Player 2 rolled 3 and is moved to 57
+Player 1 rolled 3 and is moved to 90 and Player landed on a F, and moved to 94
+Player 2 rolled 2 and is moved to 59
+Player 1 rolled 3 and is moved to 97 and Player landed on a B, move backward to 89
+Player 2 rolled 2 and is moved to 61
+Player 1 rolled 6 and is moved to 95
+Player 2 rolled 6 and is moved to 67
+Player 1 rolled 1 and is moved to 96 and Player landed on a B, move backward to 100
+Player 2 rolled 2 and is moved to 69
+Player 1 wins!
+(base) student@NKU089545 programming4 % cd "/Users/student/Documents/College/ComputerSystem/programming4/" && gcc main.c -o main &
+& "/Users/student/Documents/College/ComputerSystem/programming4/"main
+Player 1 rolled 1 and is moved to 1
+Player 2 rolled 5 and is moved to 5
+Player 1 rolled 3 and is moved to 4 and Player landed on a chute and slid down to 1
+Player 2 rolled 2 and is moved to 7
+Player 1 rolled 5 and is moved to 6 and Player landed on a ladder and climbed up to 12
+Player 2 rolled 5 and is moved to 12 and Player landed on the other player and moved back to 11
+Player 1 rolled 6 and is moved to 18 and Player landed on a ladder and climbed up to 21
+Player 2 rolled 1 and is moved to 12
+Player 1 rolled 5 and is moved to 26 and Player landed on a B, move backward to 25
+Player 2 rolled 5 and is moved to 17 and Player landed on a chute and slid down to 15
+Player 1 rolled 1 and is moved to 26 and Player landed on a B, move backward to 25
+Player 2 rolled 2 and is moved to 17
+Player 1 rolled 2 and is moved to 27 and Player landed on a ladder and climbed up to 38
+Player 2 rolled 2 and is moved to 19
+Player 1 rolled 1 and is moved to 39 and Player landed on a ladder and climbed up to 43
+Player 2 rolled 2 and is moved to 21
+Player 1 rolled 6 and is moved to 49
+Player 2 rolled 3 and is moved to 24
+Player 1 rolled 3 and is moved to 52 and Player landed on a F, and moved to 62
+Player 2 rolled 5 and is moved to 29 and Player landed on a chute and slid down to 27
+Player 1 rolled 4 and is moved to 66 and Player landed on a B, move backward to 65
+Player 2 rolled 2 and is moved to 29
+Player 1 rolled 5 and is moved to 70
+Player 2 rolled 4 and is moved to 33
+Player 1 rolled 1 and is moved to 71 and Player landed on a ladder and climbed up to 81
+Player 2 rolled 6 and is moved to 39
+Player 1 rolled 5 and is moved to 86
+Player 2 rolled 2 and is moved to 41
+Player 1 rolled 4 and is moved to 90 and Player landed on a F, and moved to 94
+Player 2 rolled 1 and is moved to 42 and Player landed on a F, and moved to 50
+Player 1 rolled 3 and is moved to 97 and Player landed on a B, move backward to 89
+Player 2 rolled 1 and is moved to 51
+Player 1 rolled 1 and is moved to 90 and Player landed on a F, and moved to 100
+Player 2 rolled 1 and is moved to 52 and Player landed on a F, and moved to 69
+Player 1 wins!
